@@ -1,0 +1,14 @@
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.deps.json
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.runtimeconfig.json
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.runtimeconfig.dev.json
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.dll
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.csprojAssemblyReference.cache
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.csproj.CoreCompileInputs.cache
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.AssemblyInfoInputs.cache
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.AssemblyInfo.cs
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.pdb
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.dll
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.pdb
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.Data.dll
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\bin\Debug\netcoreapp2.0\BinnacleService.Data.pdb
+C:\Users\relj\Documents\Provident\BinnacleService\BinnacleService\obj\Debug\netcoreapp2.0\BinnacleService.csproj.CopyComplete
